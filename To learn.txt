@@ -1,0 +1,5 @@
+using if else in dictonary
+sort function
+try except exception
+str.format()
+from_key() and has_key() in dictionary

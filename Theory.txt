@@ -1,0 +1,36 @@
+Tutorialspoint.com
+w3schools.com
+
+list1 = list(('apple', 'banana', 'cherry')) ie list(tuple)
+
+Eg: list = ["a","s","d","f"]
+Eg: list = [1,2,3,4]
+
+
+
+tuple = "a", "b", "c", "d"
+
+Eg: tuple = ("a","s",'d','f')
+Eg: tuple = (1,2,3,4)
+Iterating over the elements of a tuple is faster compared to iterating over a list.
+
+
+d = dict([(1, 'sun'),(2, "eyes")]) i.e. dict([list(tuple)])
+dict1 = dict(brand="Ford", model="Mustang", year=1964)
+[note that keywords are not strings and the use of equals rather than colon]
+
+Eg: dictionary = {"a":"s", 'd':"f"}
+Eg: dictionary = {1:2, 3:4}
+
+
+
+string = "a s d f"
+
+set = set([a,s,d,f])
+Eg: s = {a,s,d,f}
+
+
+Muttable: list, set, dict
+immutable: string, tuple, int, float, bool
+
+put \ at the end of the line and continue writing code in next line, machine will read those 2 line as a single line
